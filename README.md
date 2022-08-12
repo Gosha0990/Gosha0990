@@ -1,6 +1,5 @@
 ## Hi there 👋, my name is Georii
-### I am a C# developer
-### My main job is creating a backend
+### **I am a C# developer**
 
 ![My main job is creating a backend](https://github.com/Gosha0990/Gosha0990/blob/main/BanerC%23.jpg)
 
