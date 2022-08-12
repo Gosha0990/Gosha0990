@@ -3,7 +3,6 @@
 Skills: C# / SQL / JS / HTML / CSS / XAML / Docker / Git
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gosha0990)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gosha0990)](https://github.com/ryo-ma/github-profile-trophy)
 
