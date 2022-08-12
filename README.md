@@ -8,7 +8,7 @@ Skills: C# / SQL / JS / HTML / CSS / XAML / Docker / Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gosha0990&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gosha0990&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gosha0990&show_icons=true&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Gosha0990)  
 
