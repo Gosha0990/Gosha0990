@@ -12,6 +12,4 @@ Skills: C# / SQL / JS / HTML / CSS / XAML / Docker / Git
 
 ![GitHub metrics](https://metrics.lecoq.io/Gosha0990&theme=dark)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Gosha0990&theme=dark)  
-
 ![Profile views](https://gpvc.arturio.dev/Gosha0990)  
