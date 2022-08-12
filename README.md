@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Georii
-#### I am a C# developer
+## Hi there 👋, my name is Georii
+### I am a C# developer
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gosha0990)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Gosha_0990)  
 
 
-Skills: C# / SQL / JS / HTML / CSS / XAML / Docker / Git
+### Skills: C# / SQL / JS / HTML / CSS / XAML / Docker / Git
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gosha0990&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
